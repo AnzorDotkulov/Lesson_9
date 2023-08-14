@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\task_2.csproj": {}
+    "C:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\task_2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\task_2.csproj": {
+    "C:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\task_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\task_2.csproj",
+        "projectUniqueName": "C:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\task_2.csproj",
         "projectName": "task_2",
-        "projectPath": "c:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\task_2.csproj",
+        "projectPath": "C:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\task_2.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\obj\\",
+        "outputPath": "C:\\Users\\Professional\\Desktop\\GeekBrains\\3. Языки программирования\\C#\\Lesson_8\\task_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config"
